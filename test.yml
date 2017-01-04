@@ -1,0 +1,7 @@
+Style/AndOr:
+  EnforcedStyle: conditionals
+  Enabled: false
+
+Style/NonControlAndOr:
+  EnforcedStyle: conservative
+  Enabled: true
